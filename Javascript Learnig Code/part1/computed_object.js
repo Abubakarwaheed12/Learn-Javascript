@@ -11,3 +11,12 @@ const obj={
 }
 
 console.log(obj);
+// object destructing 
+
+let {key1: va1 , key2: var2 }=obj;
+console.log(var2);
+// spred operaotor 
+// program to check the positions of charachters in n object 
+let n={..."abcassdcsdfrfsdewewf"};
+
+console.log(n);
