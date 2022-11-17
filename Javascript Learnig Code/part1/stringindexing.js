@@ -24,3 +24,4 @@ let first_name="abu bakar";
 let age=21;
 
 console.log(`my name is ${first_name} and age is ${age}`)
+
