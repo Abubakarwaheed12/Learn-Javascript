@@ -1,7 +1,7 @@
 function myfunc(){
     document.getElementById("para").innerHTML="my first javascript";
 }
-
+// 
 // outputs 
 window.alert("hi this is window alert");
 
