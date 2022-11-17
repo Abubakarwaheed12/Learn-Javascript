@@ -6,3 +6,7 @@ for(i in fruits){
 }
 
 console.log(fruit1);
+
+for(let fruit of fruits){
+    console.log(fruit);
+}
