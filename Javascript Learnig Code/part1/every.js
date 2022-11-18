@@ -20,3 +20,4 @@ const usercart=[
 const userfind=usercart.every((user)=>user.price<30000);
 
 console.log(userfind);
+
