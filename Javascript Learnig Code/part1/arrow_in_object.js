@@ -1,9 +1,11 @@
 
 let users={
-    name1:"abu bakar",
+    user_name:"abu bakar",
     age:12,
     about:()=>{
-        console.log(`user name is ${name1}  and age is ${age}`);
+        console.log(this.user_name , this.age);
     }
 }
+
+users.about();
 
