@@ -11,7 +11,7 @@ function about(hobby , game){
     console.log(`Person name is ${this.name} and the age is ${this.age} , ${hobby} , ${game}`);
 }
 
-let user={
+let user={      
     name:"abu bakar",
     age:21,
     
