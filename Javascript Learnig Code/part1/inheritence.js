@@ -48,9 +48,9 @@ class person{
         this.city=city;
     }
     // with get it can trear as a property 
-    // get fullname(){
-    //     console.log(`${this.name}, ${this.city}`)
-    // }
+    get fullname(){
+        console.log(`${this.name}, ${this.city}`)
+    }
     set fullname(fullname){
         const[name, city]=fullname.split(" ");
         this.name=name;
