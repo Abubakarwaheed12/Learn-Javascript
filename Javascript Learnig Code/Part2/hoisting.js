@@ -11,3 +11,10 @@ function a(){
     let x=10;
     console.log(x);
 }
+
+function b(){
+    let x=9;
+    console.log(x);
+}
+a();
+b();
