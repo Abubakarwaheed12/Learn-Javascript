@@ -6,7 +6,10 @@ function get_name(){
     console.log("abu bakar waheed");
 }
 //  how function works in javascript 
-
+x=111;
+a();
+b();
+console.log(x)
 function a(){
     let x=10;
     console.log(x);
@@ -18,3 +21,4 @@ function b(){
 }
 a();
 b();
+//  let we w 
