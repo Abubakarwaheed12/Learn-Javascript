@@ -7,3 +7,7 @@ function get_name(){
 }
 //  how function works in javascript 
 
+function a(){
+    let x=10;
+    console.log(x);
+}
