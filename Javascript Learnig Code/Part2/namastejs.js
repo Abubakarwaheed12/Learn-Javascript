@@ -22,3 +22,5 @@ function b(){
 a();
 b();
 //  let we w 
+// hositing 
+// The  variable scope 
