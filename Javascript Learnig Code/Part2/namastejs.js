@@ -24,3 +24,5 @@ b();
 //  let we w 
 // hositing 
 // The  variable scope 
+
+//  we will see in this playlist how javascipt works internally 
