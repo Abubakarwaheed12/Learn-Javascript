@@ -1,2 +1,3 @@
-console.log("hello worl this is part two of js course");
+
+//  How JS works behind the scene 
 
